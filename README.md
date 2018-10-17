@@ -2,4 +2,5 @@
 
 
 Juan Tanahusu Hernandez Ramos  
-CIFP Cesar Manrique
+CIFP Cesar Manrique  
+Practicas realizacion audiovisual

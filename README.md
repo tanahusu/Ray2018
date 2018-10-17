@@ -8,4 +8,4 @@ Practicas realizacion de proyectos audiovisuales
 
 Ejercicio:  
 
-[]
+[https://github.com/tanahusu/Ray2018/blob/master/ejercic001.md]

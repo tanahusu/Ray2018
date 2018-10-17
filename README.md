@@ -3,4 +3,4 @@
 
 Juan Tanahusu Hernandez Ramos  
 CIFP Cesar Manrique  
-Practicas realizacion audiovisual
+Practicas realizacion de proyectos audiovisuales
